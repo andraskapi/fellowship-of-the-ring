@@ -62,6 +62,7 @@ public class Feladatok {
 
 
 
+
     }
 
     public static int countDthr(List<Integer> diceThrow, int number){
